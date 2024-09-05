@@ -22,4 +22,4 @@ part2cylprof
 Makefile.*
 doc/*_build
 __pycache__
-simulations
+simulations/
